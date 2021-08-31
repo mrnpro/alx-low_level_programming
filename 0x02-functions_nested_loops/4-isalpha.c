@@ -5,7 +5,7 @@
 *the alphabet ASCII value
 *
 *Return: returns the decision
-/
+*/
 
 int _isalpha(int c)
 {
