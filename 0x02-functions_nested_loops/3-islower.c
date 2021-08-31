@@ -1,5 +1,9 @@
 #include "holberton.h"
-
+/*
+*_islower : sends the info
+*
+*Return : 1 if the letter is  lower otherwise everything sinks in 0
+*/
 int _islower(int c);
 int _islower(int c)
 {
