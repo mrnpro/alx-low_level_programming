@@ -1,9 +1,13 @@
 #include "holberton.h"
 /**
-*_islower -  returns or  sends the info
-*
-*Return : 1 if the letter is  lower otherwise everything sinks in 0
-*/
+ * _islower - Shows 1 if the input is a
+ * lowercase character. otherwise, shows
+ * 0
+ *
+ * @c: The character in ASCII code
+ *
+ * Return: 1 for lowercase character. 0 for the rest.
+ */
 int _islower(int c);
 int _islower(int c)
 {
