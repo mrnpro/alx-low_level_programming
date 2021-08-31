@@ -1,10 +1,11 @@
 #include "holberton.h"
 /**
-*
-*_isalpha - tells us if the integer given by the caller is matchs with the alphabet ASCII value
-*@c: the char converted to integer
-*Return: returns the decision
-*/
+ * _isalpha - Shows 1 if the input is a or shows 0
+ *
+ * @c: The character in ASCII code
+ *
+ * Return: 1 for letters. 0 for others.
+ */
 
 int _isalpha(int c)
 {
