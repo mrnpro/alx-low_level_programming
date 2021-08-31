@@ -1,6 +1,6 @@
 #include "holberton.h"
 /*
-*_islower : sends the info
+*_islower -  returns or  sends the info
 *
 *Return : 1 if the letter is  lower otherwise everything sinks in 0
 */
