@@ -1,9 +1,8 @@
 #include "holberton.h"
 /**
 *
-* _isalpha - tells us if the integer given by the caller is matchs with
-*the alphabet ASCII value
-*
+* _isalpha - tells us if the integer given by the caller is matchs with the alphabet ASCII value
+*@c: the char converted to integer
 *Return: returns the decision
 */
 
