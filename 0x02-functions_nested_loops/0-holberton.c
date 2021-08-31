@@ -13,6 +13,6 @@ for (alpha = 0; alpha < sizeof(holberton); alpha++)
 {
 _putchar(holberton[alpha]);
 }
-_putchar("/n");
+_putchar("\n");
 return (0);
 }
