@@ -1,9 +1,9 @@
 #include "holberton.h"
 
 /**
-*main function prints the name which is Holberton
+* main - Prints Holberton.
 *
-*Return : returns 0
+* Return: Always 0
 */
 int main(void)
 {
