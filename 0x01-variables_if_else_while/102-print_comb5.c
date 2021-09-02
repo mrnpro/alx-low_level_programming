@@ -1,18 +1,13 @@
 #include<stdio.h>
+/**
+ * main - describes if n is less than 5, greater than 6 or 0.
+ *
+ * Return: Always 0
+ */
 
 int main(void)
 {
-	int i,count=0;
-	for (i=0; i<100; i++)
-	{
-		if(i<10)
-		{
-			putchar(count);
-			putchar(i);
-		}
-		else 
-			putchar(i);
-	}
-	putchar('\n');
+	int i,count=48;
+	putchar((count )+'0');
 	return(0);
 }
