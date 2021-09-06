@@ -2,9 +2,13 @@
 #include <stdio.h>
 void print_array(int *a, int n)
 {
-printf("%p", a);
-printf(", %p", a++);
-printf(", %p", a++);
-printf(", %p", a++);
-printf("%p", a++);
+puts(a);
+puts(", ");
+puts(a++);
+puts(", ");
+puts(a++);
+puts(", ");
+puts(a++);
+puts(", ");
+puts(a++);
 }
