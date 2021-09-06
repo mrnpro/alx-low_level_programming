@@ -6,7 +6,7 @@ int i = 0;
 int ch = strlen(s);
 while(ch!=0)
 {
-_putchar(s+ch);
+_putchar(*s+ch);
 ch--;
 }
 }
