@@ -4,7 +4,7 @@
 **_strcpy - copys the  second parameter to the first
 *@src: the sentence
 *@dest: the destinition
-*Return: the pasted character 
+*Return: the pasted character
 */
 char *_strcpy(char *dest, char *src)
 {
