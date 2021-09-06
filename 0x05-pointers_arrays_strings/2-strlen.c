@@ -3,9 +3,9 @@
 /**
 *_strlen - this tells us the total letters from s 
 *@s: the sentence assigned by the main
+*Return: return the length
 */
 int _strlen(char *s)
 {
-int l = *s
-return strlen(l);
+return strlen(s);
 }
